@@ -2,8 +2,6 @@
 
 A Chat app built with Trpc, Tailwind CSS, Ably, Redis, Cloudinary, Drizzle ORM, Next.js.
 
-This repository is a monorepo ([Turborepo](https://turbo.build)).
-
 ![preview](./document/image.png)
 
 ## Features
@@ -28,7 +26,6 @@ This repository is a monorepo ([Turborepo](https://turbo.build)).
 
 **Play with it:** https://shark-chat.vercel.app
 <br />
-**Learn More:** https://shark-chat.vercel.app/info
 
 ## Play with it Locally
 
